@@ -27,6 +27,7 @@ namespace Finalni_Test.Tests.Controllers
             Assert.IsNotNull(contentResult);
             Assert.IsNotNull(contentResult.Content);
             Assert.AreEqual(25, contentResult.Content.Id);
+            Assert.IsInstanceOfType(actionResult, typeof(OkNegotiatedContentResult<Zaposlen>));
 
         }
 
@@ -46,9 +47,9 @@ namespace Finalni_Test.Tests.Controllers
         public void GetReturnsMultipleObjectsSorted()
         {
             List<Zaposlen> zaposleni = new List<Zaposlen>();
-            zaposleni.Add(new Zaposlen { Id = 1, ImeIPrezime = "Zaposlen1" });
-            zaposleni.Add(new Zaposlen { Id = 2, ImeIPrezime = "Zaposlen2" });
-            zaposleni.OrderBy(z => z.GodinaZaposlenja);
+            zaposleni.Add(new Zaposlen { Id = 1, ImeIPrezime = "Zaposlen1", GodinaZaposlenja = 2015 });
+            zaposleni.Add(new Zaposlen { Id = 2, ImeIPrezime = "Zaposlen2", GodinaZaposlenja = 2018 });
+            
 
             var mockRepository = new Mock<IZaposlenRepository>();
             mockRepository.Setup(x => x.GetAll()).Returns(zaposleni.AsQueryable());
@@ -66,17 +67,17 @@ namespace Finalni_Test.Tests.Controllers
         public void PostReturnsMultipleObjectsSorted()
         {
             List<Zaposlen> zaposleni = new List<Zaposlen>();
-            zaposleni.Add(new Zaposlen { Id = 1, ImeIPrezime = "Zaposlen1", Plata = 2000 });
-            zaposleni.Add(new Zaposlen { Id = 2, ImeIPrezime = "Zaposlen2", Plata = 3000});
-            zaposleni.Add(new Zaposlen { Id = 3, ImeIPrezime = "Zaposlen3", Plata = 1500 });
+            zaposleni.Add(new Zaposlen { Id = 1, ImeIPrezime = "Zaposlen1", Plata = 2000m });
+            zaposleni.Add(new Zaposlen { Id = 2, ImeIPrezime = "Zaposlen2", Plata = 3000m });
+            zaposleni.Add(new Zaposlen { Id = 3, ImeIPrezime = "Zaposlen3", Plata = 1500m });
             zaposleni.Add(new Zaposlen { Id = 4, ImeIPrezime = "Zaposlen4", Plata = 2500 });
             zaposleni.OrderByDescending(z => z.Plata);
 
             var mockRepository = new Mock<IZaposlenRepository>();
-            mockRepository.Setup(x => x.GetAllSaPlatomIzmedju(2500, 3500)).Returns(zaposleni.AsQueryable());
+            mockRepository.Setup(x => x.GetAllSaPlatomIzmedju(1800, 2600)).Returns(zaposleni.AsQueryable());
             var controller = new ZaposleniController(mockRepository.Object);
 
-            IQueryable<Zaposlen> rezultat = controller.PostPretraga(new GranicaPlate() { Najmanje = 2500, Najvise = 3500 });
+            IQueryable<Zaposlen> rezultat = controller.PostPretraga(new GranicaPlate() { Najmanje = 1800, Najvise = 2600 });
 
             Assert.IsNotNull(rezultat);
             Assert.AreEqual(zaposleni.Count, rezultat.ToList().Count);
