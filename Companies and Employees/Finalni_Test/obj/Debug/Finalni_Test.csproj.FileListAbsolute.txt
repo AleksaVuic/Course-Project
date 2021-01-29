@@ -1,0 +1,419 @@
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\ApplicationInsights.config
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\csc.exe
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\csc.exe.config
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\csc.rsp
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\csi.exe
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\csi.exe.config
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\csi.rsp
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.AppContext.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Collections.Immutable.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Console.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Diagnostics.Process.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.IO.Compression.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.IO.FileSystem.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.IO.Pipes.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.AccessControl.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.Claims.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.Principal.Windows.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Threading.Thread.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.ValueTuple.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Xml.XPath.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\vbc.exe
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\vbc.exe.config
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\vbc.rsp
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\VBCSCompiler.exe
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\roslyn\VBCSCompiler.exe.config
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Finalni_Test.dll.config
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Finalni_Test.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Finalni_Test.pdb
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Antlr3.Runtime.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\EntityFramework.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\EntityFramework.SqlServer.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AI.DependencyCollector.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AI.Web.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AI.WindowsServer.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.ApplicationInsights.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AspNet.Identity.Core.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Cookies.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Facebook.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Google.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.OAuth.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Twitter.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.ServiceLocation.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.Unity.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Web.Infrastructure.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Newtonsoft.Json.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Owin.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Net.Http.Formatting.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Helpers.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Http.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Http.Owin.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Http.WebHost.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Mvc.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Optimization.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Razor.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.WebPages.Deployment.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.WebPages.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.WebPages.Razor.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\WebGrease.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.ServiceLocation.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.Unity.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Newtonsoft.Json.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Net.Http.Formatting.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Helpers.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Http.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Http.WebHost.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Mvc.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Optimization.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Razor.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.WebPages.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.WebPages.Deployment.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.WebPages.Razor.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Antlr3.Runtime.pdb
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\EntityFramework.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\EntityFramework.SqlServer.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AspNet.Identity.Core.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Facebook.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Cookies.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.OAuth.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Google.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Twitter.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\System.Web.Http.Owin.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.ApplicationInsights.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AI.DependencyCollector.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AI.WindowsServer.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\bin\Microsoft.AI.Web.xml
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.csprojResolveAssemblyReference.cache
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.csproj.CoreCompileInputs.cache
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.dll
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.pdb
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.Migrations.Initial.resources
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.csproj.GenerateResource.Cache
+C:\folderzapolaznike\aleksaVuic\projekti\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.Migrations.Second.resources
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.Migrations.Initial.resources
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.Migrations.Second.resources
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.pdb
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\ApplicationInsights.config
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\csc.exe
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\csc.exe.config
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\csc.rsp
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\csi.exe
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\csi.exe.config
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\csi.rsp
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.AppContext.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Console.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.IO.Compression.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.Claims.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Threading.Thread.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.ValueTuple.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\vbc.exe
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\vbc.exe.config
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\vbc.rsp
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\VBCSCompiler.exe
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Finalni_Test.dll.config
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Finalni_Test.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Finalni_Test.pdb
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Antlr3.Runtime.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\EntityFramework.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\EntityFramework.SqlServer.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AI.Web.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.ApplicationInsights.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.Unity.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Newtonsoft.Json.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Owin.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Net.Http.Formatting.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Helpers.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Http.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Http.Owin.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Http.WebHost.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Mvc.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Optimization.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Razor.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.WebPages.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\WebGrease.dll
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.Unity.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Newtonsoft.Json.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Net.Http.Formatting.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Helpers.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Http.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Http.WebHost.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Mvc.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Optimization.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Razor.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.WebPages.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Antlr3.Runtime.pdb
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\EntityFramework.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\EntityFramework.SqlServer.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\System.Web.Http.Owin.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.ApplicationInsights.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\bin\Microsoft.AI.Web.xml
+C:\Users\aleks\Desktop\AleksaVuic\Finalni_Test\Finalni_Test\obj\Debug\Finalni_Test.csproj.CopyComplete
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\ApplicationInsights.config
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\csc.exe
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\csc.exe.config
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\csc.rsp
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\csi.exe
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\csi.exe.config
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\csi.rsp
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.AppContext.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Collections.Immutable.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Console.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Diagnostics.Process.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.IO.Compression.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.IO.FileSystem.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.IO.Pipes.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Security.AccessControl.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Security.Claims.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Security.Principal.Windows.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Threading.Thread.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.ValueTuple.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Xml.XPath.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\vbc.exe
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\vbc.exe.config
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\vbc.rsp
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\VBCSCompiler.exe
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\roslyn\VBCSCompiler.exe.config
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Finalni_Test.dll.config
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Finalni_Test.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Finalni_Test.pdb
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Antlr3.Runtime.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\EntityFramework.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\EntityFramework.SqlServer.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AI.DependencyCollector.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AI.Web.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AI.WindowsServer.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.ApplicationInsights.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AspNet.Identity.Core.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.Cookies.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.Facebook.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.Google.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.OAuth.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.Twitter.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Practices.ServiceLocation.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Practices.Unity.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Web.Infrastructure.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Newtonsoft.Json.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Owin.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Net.Http.Formatting.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Helpers.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Http.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Http.Owin.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Http.WebHost.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Mvc.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Optimization.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Razor.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.WebPages.Deployment.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.WebPages.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.WebPages.Razor.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\WebGrease.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Practices.ServiceLocation.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Practices.Unity.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Newtonsoft.Json.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Net.Http.Formatting.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Helpers.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Http.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Http.WebHost.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Mvc.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Optimization.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Razor.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.WebPages.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.WebPages.Deployment.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.WebPages.Razor.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Antlr3.Runtime.pdb
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\EntityFramework.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\EntityFramework.SqlServer.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AspNet.Identity.Core.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.Facebook.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.Cookies.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.OAuth.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.Google.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.Twitter.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\System.Web.Http.Owin.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.ApplicationInsights.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AI.DependencyCollector.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AI.WindowsServer.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\bin\Microsoft.AI.Web.xml
+C:\IT\working-directory\Companies and Employees\Finalni_Test\obj\Debug\Finalni_Test.csprojAssemblyReference.cache
+C:\IT\working-directory\Companies and Employees\Finalni_Test\obj\Debug\Finalni_Test.Migrations.Initial.resources
+C:\IT\working-directory\Companies and Employees\Finalni_Test\obj\Debug\Finalni_Test.Migrations.Second.resources
+C:\IT\working-directory\Companies and Employees\Finalni_Test\obj\Debug\Finalni_Test.csproj.GenerateResource.cache
+C:\IT\working-directory\Companies and Employees\Finalni_Test\obj\Debug\Finalni_Test.csproj.CoreCompileInputs.cache
+C:\IT\working-directory\Companies and Employees\Finalni_Test\obj\Debug\Finalni_Test.csproj.CopyComplete
+C:\IT\working-directory\Companies and Employees\Finalni_Test\obj\Debug\Finalni_Test.dll
+C:\IT\working-directory\Companies and Employees\Finalni_Test\obj\Debug\Finalni_Test.pdb

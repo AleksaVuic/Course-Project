@@ -1,0 +1,174 @@
+﻿@section Scripts{
+    @Scripts.Render("~/Scripts/script.js")
+}
+
+<div class="main-container" >
+
+    <div class="row">
+        <div style="border: 3px solid black; margin-top:20px; margin-bottom: 30px; text-align:center; background-color: azure">
+            <h1>Tehna</h1>
+        </div>
+    </div>
+
+     <div id="header" class="row" style="display: none; text-align: center; margin-bottom: 30px; ">
+                            <h2 style="margin-bottom: 25px;">Korisnik nije prijavljen na sistem</h2>
+                         <button id="showLogin" class="btn btn-warning"  style="margin-bottom: 10px;">Prijava</button><br />
+                         <button id="showRegister" class="btn btn-default"  style="">Registracija</button>
+        </div> 
+
+    @*  ROW 1  *@
+    <div class="row" style="margin-bottom: 20px;">
+
+        @* LOGOUT *@
+        <div id="logoutDiv" class="form-group col-sm-4" style="display: none; border: 3px solid black; padding: 15px; background-color: lightgray; border-radius: 25px; box-shadow: 0px 0px 10px 3px red;">
+            <h3 style="margin-bottom: 40px;  text-decoration: underline;"><b>Nalog</b></h3>
+
+            <p id="loggedUser" style="font-weight: bold;"> </p>
+
+            <button id="logoutBtn" class="btn btn-default" style="margin-top: 15px; background-color:yellow;">Odjava</button>
+
+        </div>
+
+        @* REGISTER *@
+        <div id="registerDiv" class="form-group col-md-5" style="display: none; margin-bottom: 30px; border: 3px solid black; padding: 15px; background-color: lightgray; border-radius: 25px; box-shadow: 0px 0px 10px 3px blue;">
+            <h3 style="margin-bottom: 40px; text-decoration: underline;"><b>Registracija korisnika</b></h3>
+
+            <form id="registerForm" class="form-group" method="post" action="post/">
+                <p>
+                    <label>E-mail</label>
+                    <input id="registerEmail" type="text" class="form-control">
+                </p>
+                <p>
+                    <label>Lozinka</label>
+                    <input id="registerPsw" type="password" class="form-control">
+                </p>
+                
+                <button id="registerBtn" type="submit" class="btn btn-warning" style="margin-top: 15px;">Registracija</button>
+
+                @* REGISTER CANCEL *@
+                 <button id="registerCancel" type="button" class="btn btn-default" style="margin-top: 15px;">Odustajanje</button> 
+
+                
+                
+
+            </form>
+        </div>
+
+        @* LOGIN *@
+        <div id="loginDiv" class="form-group col-md-5" style="display: none; border: 3px solid black; padding: 15px; background-color: lightgray; border-radius: 25px; box-shadow: 0px 0px 10px 3px green; ">
+            <h3 style="margin-bottom: 40px; text-decoration: underline;"><b>Prijava korisnika</b></h3>
+
+            <form id="loginForm" method="post" action="post/">
+                <p>
+                    <label>E-mail</label>
+                    <input id="loginEmail" type="text" class="form-control">
+                </p>
+                <p>
+                    <label>Lozinka</label>
+                    <input id="loginPsw" type="password" class="form-control">
+                </p>
+
+                <button id="loginBtn" type="submit" class="btn btn-warning" style="margin-top: 15px;">Prijava</button>
+
+                @* LOGIN CANCEL *@
+                 <button id="loginCancel" type="" class="btn btn-default" style="margin-top: 15px;">Odustajanje</button> 
+
+             
+
+            </form>
+        </div>
+
+
+
+    </div>
+
+
+    @*  ROW 2  *@
+    <div class="row" style="margin-bottom: 20px;">
+
+        @* SEARCH *@
+        <div id="searchDiv" class="form-group col-md-4" style="display: none; width:100%; border: 3px solid black; padding: 15px; background-color: lightgray; border-radius: 25px; box-shadow: 0px 0px 10px 3px orange; ">
+            <h3 style="margin-bottom: 40px; text-decoration: underline;"><b>Pretraga zaposlenig po plati</b></h3>
+
+            <form id="searchForm" method="post" action="post/">
+                <p>
+                    <label>Najmanje</label>
+                    <input id="least" type="number" class="form-control">
+                </p>
+                <p>
+                    <label>Najvise</label>
+                    <input id="most" type="number" class="form-control">
+                </p>
+
+                <button id="searchBtn" type="submit" class="btn btn-warning" style="margin-top: 15px;">Trazi</button>
+
+            </form>
+        </div>
+
+        @* DATA DIV *@
+        <div id="dataDiv" class="form-group col-sm-8" style="display: none; width:100%; border: 3px solid black; padding: 15px; background-color: lightgray; text-align: center; border-radius: 25px; box-shadow: 0px 0px 10px 3px yellow;">
+
+        </div>
+
+
+
+    </div>
+
+
+
+    @*  ROW 3  *@
+    <div class="row" style="margin-bottom: 20px;">
+
+
+        
+
+        @* CREATE *@
+        <div id="createDiv" class="form-group col-md-8" style="display: none; border: 3px solid black; padding: 15px; background-color: lightgray; border-radius: 25px; box-shadow: 0px 0px 10px 3px black; ">
+            <h3 style="margin-bottom: 40px; text-decoration: underline;"><b>Forma</b></h3>
+
+            <form id="createForm" method="post" action="post/">
+
+                <p>
+                    <label>Organizaciona jedinica</label>
+                    <select id="select" class="form-control">  </select>
+                </p>
+                <p>
+                    <label>Rola </label>
+                    <input id="role" type="text" class="form-control">
+                </p>
+                <p>
+                    <label>Ime i prezime</label>
+                    <input id="name" type="text" class="form-control">
+                </p>
+                <p>
+                    <label>Godina rodjenja</label>
+                    <input id="yearbirth" type="number" class="form-control">
+                </p>
+                <p>
+                    <label>Godina zaposlenja</label>
+                    <input id="yearemployed" type="number" class="form-control">
+                </p>
+                <p>
+                    <label>Plata</label>
+                    <input id="salary" type="number" step="0.01" class="form-control">
+                </p>
+                
+                <button id="submitBtn" type="submit" class="btn btn-default" style="margin-top: 15px; margin-left: 10px; background-color:yellow; margin:auto;">Dodavanje</button><br />
+                <button id="resetBtn" type="reset" class="btn btn-danger" style="margin-top: 15px;">Odustajanje</button>
+                
+
+            </form>
+        </div>
+
+
+    </div>
+
+
+
+   
+
+
+
+
+</div>
+
