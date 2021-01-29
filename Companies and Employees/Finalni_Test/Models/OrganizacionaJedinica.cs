@@ -14,7 +14,7 @@ namespace Finalni_Test.Models
         [Required, StringLength(50)]
         public string Ime { get; set; }
 
-        [Range(2010,2020)]
+        [Range(2010,2019)]
         public int GodinaOsnivanja { get; set; }
 
 
