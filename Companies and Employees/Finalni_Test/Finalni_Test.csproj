@@ -256,6 +256,10 @@
     <Compile Include="Migrations\202012091856540_Second.Designer.cs">
       <DependentUpon>202012091856540_Second.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202101311808335_Third.cs" />
+    <Compile Include="Migrations\202101311808335_Third.Designer.cs">
+      <DependentUpon>202101311808335_Third.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -354,6 +358,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202012091856540_Second.resx">
       <DependentUpon>202012091856540_Second.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202101311808335_Third.resx">
+      <DependentUpon>202101311808335_Third.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

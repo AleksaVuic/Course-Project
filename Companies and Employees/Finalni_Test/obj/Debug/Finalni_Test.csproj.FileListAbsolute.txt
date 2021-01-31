@@ -557,3 +557,4 @@ C:\IT\GIT\Working directory\Companies and Employees\Finalni_Test\obj\Debug\Final
 C:\IT\GIT\Working directory\Companies and Employees\Finalni_Test\obj\Debug\Finalni_Test.csproj.CopyComplete
 C:\IT\GIT\Working directory\Companies and Employees\Finalni_Test\obj\Debug\Finalni_Test.dll
 C:\IT\GIT\Working directory\Companies and Employees\Finalni_Test\obj\Debug\Finalni_Test.pdb
+C:\IT\GIT\Working directory\Companies and Employees\Finalni_Test\obj\Debug\Finalni_Test.Migrations.Third.resources

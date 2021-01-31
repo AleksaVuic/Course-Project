@@ -10,6 +10,7 @@
     var token = null;
     var headers = {};
 
+    $("body").css("background-color", "gray");
 
      loadAll();
      $("#header").show();
@@ -226,7 +227,7 @@
 
         var $data = $("#dataDiv");
         $data.empty();
-        var header = $("<h2>Zaposleni</h2>");
+        var header = $("<h2>Zaposleni</h2><br>");
 
         if (status === "success") {
             $data.append(header);
@@ -241,20 +242,25 @@
             {
                 th = $("<th>Ime i prezime</th> <th>Rola</th> <th>Godina zaposlenja</th> <th>Jedinica</th> ");
             }
-            th.css("background-color", "yellow");
+            th.css("background-color", "black");
+            th.css("color", "white");
             th.css("text-align", "center");
+            th.css("border", "2px solid white");
+            th.css("padding", "10px");
 
             table.append(th);
+            table.css("border", "3px solid black");
+            table.css("box-shadow", "1px 2px 13px black")
 
             for (var i = 0; i < data.length; i++) {
 
-                var td = "<td>";
+                var td = "<td style=\"border: 1px solid black;\">";
                 var tdend = "</td>";
                 var row = "<tr>";
 
                 if (token)
                 {
-                    var deleteBtn = "<td><button id=deleteBtn name=" + data[i].Id + ">Delete</button></td>";
+                    var deleteBtn = "<td style=\"border: 1px solid black;\"><button id=deleteBtn class=\"btn btn-danger\" style=\"border: 1px solid black;\" name=" + data[i].Id + ">Delete</button></td>";
                     row += td + data[i].ImeIPrezime + tdend +
                         td + data[i].Rola + tdend +
                         td + data[i].GodinaZaposlenja + tdend +

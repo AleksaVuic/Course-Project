@@ -6,15 +6,16 @@
 
     <div class="row">
         <div style="border: 3px solid black; margin-top:20px; margin-bottom: 30px; text-align:center; background-color: azure">
-            <h1>Tehna</h1>
+            <h1>.NET Web development</h1>
         </div>
     </div>
 
      <div id="header" class="row" style="display: none; text-align: center; margin-bottom: 30px; ">
-                            <h2 style="margin-bottom: 25px;">Korisnik nije prijavljen na sistem</h2>
-                         <button id="showLogin" class="btn btn-warning"  style="margin-bottom: 10px;">Prijava</button><br />
-                         <button id="showRegister" class="btn btn-default"  style="">Registracija</button>
-        </div> 
+                            <h2 style="margin-bottom: 25px; color:white;">Korisnik nije prijavljen na sistem</h2>
+                         <button id="showLogin" class="btn btn-success"  style="margin-bottom: 10px;  border: 1px solid black;">Prijava</button><br />
+                         <button id="showRegister" class="btn btn-primary"  style="border: 1px solid black; ">Registracija</button>
+     </div> 
+     <hr />
 
     @*  ROW 1  *@
     <div class="row" style="margin-bottom: 20px;">
@@ -25,9 +26,10 @@
 
             <p id="loggedUser" style="font-weight: bold;"> </p>
 
-            <button id="logoutBtn" class="btn btn-default" style="margin-top: 15px; background-color:yellow;">Odjava</button>
+            <button id="logoutBtn" class="btn btn-danger" style="margin-top: 15px; border: 1px solid black;">Odjava</button>
 
         </div>
+        
 
         @* REGISTER *@
         <div id="registerDiv" class="form-group col-md-5" style="display: none; margin-bottom: 30px; border: 3px solid black; padding: 15px; background-color: lightgray; border-radius: 25px; box-shadow: 0px 0px 10px 3px blue;">
@@ -43,16 +45,17 @@
                     <input id="registerPsw" type="password" class="form-control">
                 </p>
                 
-                <button id="registerBtn" type="submit" class="btn btn-warning" style="margin-top: 15px;">Registracija</button>
+                <button id="registerBtn" type="submit" class="btn btn-primary" style="margin-top: 15px; border: 1px solid black;">Registracija</button>
 
                 @* REGISTER CANCEL *@
-                 <button id="registerCancel" type="button" class="btn btn-default" style="margin-top: 15px;">Odustajanje</button> 
+                 <button id="registerCancel" type="button" class="btn btn-danger" style="margin-top: 15px; border: 1px solid black;">Odustajanje</button> 
 
                 
                 
 
             </form>
         </div>
+        
 
         @* LOGIN *@
         <div id="loginDiv" class="form-group col-md-5" style="display: none; border: 3px solid black; padding: 15px; background-color: lightgray; border-radius: 25px; box-shadow: 0px 0px 10px 3px green; ">
@@ -68,15 +71,16 @@
                     <input id="loginPsw" type="password" class="form-control">
                 </p>
 
-                <button id="loginBtn" type="submit" class="btn btn-warning" style="margin-top: 15px;">Prijava</button>
+                <button id="loginBtn" type="submit" class="btn btn-success" style="margin-top: 15px;  border: 1px solid black;">Prijava</button>
 
                 @* LOGIN CANCEL *@
-                 <button id="loginCancel" type="" class="btn btn-default" style="margin-top: 15px;">Odustajanje</button> 
+                 <button id="loginCancel" type="" class="btn btn-danger" style="margin-top: 15px;  border: 1px solid black;">Odustajanje</button> 
 
              
 
             </form>
         </div>
+        
 
 
 
@@ -100,7 +104,7 @@
                     <input id="most" type="number" step="0.01" class="form-control">
                 </p>
 
-                <button id="searchBtn" type="submit" class="btn btn-warning" style="margin-top: 15px;">Trazi</button>
+                <button id="searchBtn" type="submit" class="btn btn-warning" style="margin-top: 15px; border: 1px solid black;">Trazi</button>
 
             </form>
         </div>
@@ -153,8 +157,8 @@
                     <input id="salary" type="number" step="0.01" class="form-control">
                 </p>
                 
-                <button id="submitBtn" type="submit" class="btn btn-default" style="margin-top: 15px; margin-left: 10px; background-color:yellow; margin:auto;">Dodavanje</button><br />
-                <button id="resetBtn" type="reset" class="btn btn-danger" style="margin-top: 15px;">Odustajanje</button>
+                <button id="submitBtn" type="submit" class="btn btn-success" style="margin-top: 15px; border: 1px solid black; margin-left: 10px; ">Dodavanje</button>
+                <button id="resetBtn" type="reset" class="btn btn-danger" style="margin-top: 15px; margin-left: 50px; border: 1px solid black;">Odustajanje</button>
                 
 
             </form>
