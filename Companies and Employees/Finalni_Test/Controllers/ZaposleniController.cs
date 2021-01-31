@@ -69,16 +69,18 @@ namespace Finalni_Test.Controllers
             if (id != z.Id)
                 return BadRequest();
 
+            var zaposleni = _repository.GetById(id);
+
             try
             {
-                _repository.Update(z);
+                _repository.Update(zaposleni);
             }
             catch (DbUpdateConcurrencyException)
             {
                 return BadRequest();
             }
 
-            return Ok(z);
+            return Ok(zaposleni);
         }
 
         //[Authorize]

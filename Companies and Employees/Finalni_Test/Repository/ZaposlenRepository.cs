@@ -63,6 +63,7 @@ namespace Finalni_Test.Repository
 
         public void Update(Zaposlen z)
         {
+           
             db.Entry(z).State = EntityState.Modified;
 
             try

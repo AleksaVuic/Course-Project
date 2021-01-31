@@ -70,14 +70,14 @@ namespace Finalni_Test.Tests.Controllers
             zaposleni.Add(new Zaposlen { Id = 1, ImeIPrezime = "Zaposlen1", Plata = 2000m });
             zaposleni.Add(new Zaposlen { Id = 2, ImeIPrezime = "Zaposlen2", Plata = 3000m });
             zaposleni.Add(new Zaposlen { Id = 3, ImeIPrezime = "Zaposlen3", Plata = 1500m });
-            zaposleni.Add(new Zaposlen { Id = 4, ImeIPrezime = "Zaposlen4", Plata = 2500 });
-            zaposleni.OrderByDescending(z => z.Plata);
+            zaposleni.Add(new Zaposlen { Id = 4, ImeIPrezime = "Zaposlen4", Plata = 2500m });
+            GranicaPlate filter = new GranicaPlate() { Najmanje = 1800m, Najvise = 2600m };
 
             var mockRepository = new Mock<IZaposlenRepository>();
-            mockRepository.Setup(x => x.GetAllSaPlatomIzmedju(1800, 2600)).Returns(zaposleni.AsQueryable());
+            mockRepository.Setup(x => x.GetAllSaPlatomIzmedju(filter.Najmanje, filter.Najvise)).Returns(zaposleni.AsQueryable());
             var controller = new ZaposleniController(mockRepository.Object);
 
-            IQueryable<Zaposlen> rezultat = controller.PostPretraga(new GranicaPlate() { Najmanje = 1800, Najvise = 2600 });
+            IQueryable<Zaposlen> rezultat = controller.PostPretraga(filter);
 
             Assert.IsNotNull(rezultat);
             Assert.AreEqual(zaposleni.Count, rezultat.ToList().Count);
