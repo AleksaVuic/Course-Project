@@ -45,8 +45,9 @@ namespace Finalni_Test.Controllers
                 return BadRequest(ModelState);
 
             _repository.Add(z);
+            var zaposlen =_repository.GetById(z.Id);
 
-            return CreatedAtRoute("DefaultApi", new { id = z.Id }, z);
+            return CreatedAtRoute("DefaultApi", new { id = z.Id }, zaposlen);
         }
 
         //[Authorize]
